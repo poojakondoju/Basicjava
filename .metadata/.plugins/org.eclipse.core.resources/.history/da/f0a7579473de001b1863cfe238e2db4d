@@ -1,0 +1,14 @@
+package javaclass;
+
+public class Demo {
+	String color;
+	int speed;
+	String brand;
+	float price;
+	void running() {
+		System.out.println("car is running");
+	}
+	void breaking() {
+		System.out.println("break applied");
+	}
+	}
